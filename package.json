@@ -1,6 +1,6 @@
 {
   "name": "td-server",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Development server for Tripledollar.",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "body-parser": ">=1.10.1",
     "connect": ">=3.3.3",
     "connect-query": ">=0.2.0",
-    "morgan": "^1.9.1",
+    "morgan": ">=1.9.1",
     "serve-favicon": ">=2.2.0",
     "serve-static": ">=1.7.1"
   },
